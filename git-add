@@ -1,2 +1,31 @@
 git 更新提交文件
 
+   24  git push  origin master
+   25  git push  origin
+   29  git push --all origin
+   30  git config --global user.name "fxyfdf"
+   31  git config --global user.email "fxyfdf@sina.com"
+
+   43  git remote add origin https://github.com/fxyfdf/learn-python3.git
+
+   51  git config --global http.sslVerify false  # 证书认证失败，关闭此项
+   52  git push --all origin
+   53  git push --all origin master
+
+
+   59  echo "# learn-python3" >> README.md
+   60  git init
+   61  git add README.md
+   62  git commit -m "first commit"
+   63  git remote add origin https://github.com/fxyfdf/learn-python3.git
+   68  git push -u origin master
+   69  git push -all origin
+   70  history
+   71   git push --all origin
+   72  ls
+   73  git add .
+
+
+# 默认账号 密码
+
+
